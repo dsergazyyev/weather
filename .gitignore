@@ -10,3 +10,4 @@ venv/
 *.sqlite3
 *.log
 .venv/
+test_smth.py
